@@ -98,33 +98,33 @@
     margin-top: 0;
   }
 
-  #home-slider .slider-hill {
-    width: 400px;
+  #home-slider .slider-background {
+    width: 350px;
   }
 
-  #home-slider .slider-house {
-    width: 250px;
-    right: 90px;
-    bottom: -20px;
+  #home-slider .slider-gears {
+    width: 300px;
+    right: 0px;
+    bottom: 0px;
   }
 
-  #home-slider .slider-sun {
-    right: 255px;
-    bottom: 65px;
-    width: 60px
+  #home-slider .slider-circuits {
+    right: 20px;
+    bottom: 70px;
+    width: 250px
   }
 
-  #home-slider .slider-birds1 {
-    right: 320px;
-    bottom: 60px;
-    width: 70px;
+  #home-slider .slider-fist {
+    right: 95px;
+    bottom: 50px;
+    width: 100px;
   }
 
-  #home-slider .slider-birds2 {
+  /*#home-slider .slider-birds2 {
     right: 0;
     bottom: 90px;
     width: 80px;
-  }
+  }*/
 
   /*Pricing Table*/
   .single-price {
